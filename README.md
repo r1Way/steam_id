@@ -6,8 +6,8 @@
 * The steamid.exe file must be in the same unified directory as the data folder
 * steamid.exe 文件需与data文件夹处于同一统一目录中
 
-* The data folder contains the names of almost all the signed players
-* data文件夹内存入了所有有签名的选手名称（2024.2.13）
+* The data folder contains the names of almost all the signed players（before 2024.2.13）
+* data文件夹内存入了几乎所有有签名的选手名称（在2024.2.13之前）
 
 * improvements:
 * 1.show the real-time cost 
